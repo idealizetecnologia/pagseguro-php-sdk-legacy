@@ -1,0 +1,1 @@
+# pagseguro-php-sdk-legacy
